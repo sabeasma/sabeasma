@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Asma Banu
 
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="370" height="290" src=https://media.giphy.com/media/tkEaYA3Kd5WtyXtLqu/giphy.gif>
 
 **Aspiring Software Engineer | B.Tech AIDS Student**  
 🌱 Currently exploring **DSA, AI/ML & Web Development**  
