@@ -97,7 +97,7 @@
 
 # 🧠 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/sheikabdullahpm?theme=chartreuse&font=Frank%20Ruhl%20Libre&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/sabeasma?theme=chartreuse&font=Frank%20Ruhl%20Libre&ext=heatmap)
 
 ---
 
