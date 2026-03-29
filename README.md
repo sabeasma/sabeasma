@@ -1,8 +1,8 @@
-## Hi there 👋 I'm Sheik Abdullah
+## Hi there 👋 I'm Asma Banu
 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
-**Aspiring Software Engineer | B.Tech CSBS Student**  
+**Aspiring Software Engineer | B.Tech AIDS Student**  
 🌱 Currently exploring **DSA, AI/ML & Web Development**  
 🚀 Transforming ideas into **impactful software**
 
@@ -55,8 +55,6 @@
 ---
 
 # 💻 Workspace Specs
-
-<img src="https://img.shields.io/badge/Lenovo_Ideapad_Gaming3-ED1C24?style=for-the-badge&logo=lenovo&logoColor=white"/>
 <img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 <img src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
 
@@ -66,10 +64,12 @@
 
 | Project | Tech Stack | Demo |
 | --- | --- | --- |
-| [Learning & Assessment Portal](https://github.com/sheikabdullahpm/learning-and-assessment-portal) | MERN, JS | [Live Demo](#) |
+| [AI Expense Tracker](https://smart-expense.vercel.app
+) |Springboot,React | [Live Demo](#) |
 | [Mental Health Support](https://github.com/sheikabdullahpm/mental-health-support) | React, Flask | [Live Demo](https://mental-health-support-sheik-abdullah-p-ms-projects.vercel.app/welcome) |
 | [Text-to-Image Gen AI](https://github.com/sheikabdullahpm/text-to-image-gen-ai) | React, LLMs | [Live Demo](https://text-to-image-gen-ai-git-main-sheik-abdullah-p-ms-projects.vercel.app/) |
-| [AI Career Path](https://github.com/sheikabdullahpm/ai-careerpath) | Next, Node | [Live Demo](#) |
+| [ML Faculty Analyzer](https://facultyfront.vercel.app
+) | Flask, Ml | [Live Demo](#) |
 | [Smart Hostel & Mess Management](https://github.com/sheikabdullahpm/smart-hostel-and-mess-management) | React, MUI | [Live Demo](https://smart-hostel-and-mess-management.vercel.app/) |
 
 ---
