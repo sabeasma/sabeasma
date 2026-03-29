@@ -12,10 +12,7 @@
 
 ### 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peer-sheik-abdullah-mohd-noordeen-b97148276/)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/unary_man/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=github&logoColor=white)](https://sheikabdullahpm.github.io/sheik-portfolio/)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asma-banu-3b684a301/)  
 ---
 
 # 🛠 Technical Skills
@@ -64,12 +61,10 @@
 
 | Project | Tech Stack | Demo |
 | --- | --- | --- |
-| [AI Expense Tracker](https://smart-expense.vercel.app
-) |Springboot,React | [Live Demo](#) |
+| [AI Expense Tracker](https://smart-expense.vercel.app) |Springboot,React | [Live Demo](#) |
 | [Mental Health Support](https://github.com/sheikabdullahpm/mental-health-support) | React, Flask | [Live Demo](https://mental-health-support-sheik-abdullah-p-ms-projects.vercel.app/welcome) |
 | [Text-to-Image Gen AI](https://github.com/sheikabdullahpm/text-to-image-gen-ai) | React, LLMs | [Live Demo](https://text-to-image-gen-ai-git-main-sheik-abdullah-p-ms-projects.vercel.app/) |
-| [ML Faculty Analyzer](https://facultyfront.vercel.app
-) | Flask, Ml | [Live Demo](#) |
+| [ML Faculty Analyzer](https://facultyfront.vercel.app) | Flask, Ml | [Live Demo](#) |
 | [Smart Hostel & Mess Management](https://github.com/sheikabdullahpm/smart-hostel-and-mess-management) | React, MUI | [Live Demo](https://smart-hostel-and-mess-management.vercel.app/) |
 
 ---
@@ -90,7 +85,7 @@
 
 # 📈 GitHub Activity Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sheikabdullahpm&bg_color=0d1117&color=1abc9c&line=ffffff&point=ff6347&area=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sabeasma&bg_color=0d1117&color=1abc9c&line=ffffff&point=ff6347&area=true)
 
 ---
 
