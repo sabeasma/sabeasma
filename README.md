@@ -97,7 +97,7 @@
 
 # 🧠 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/asma banu?theme=chartreuse&font=Frank%20Ruhl%20Libre&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/asmabanu?theme=chartreuse&font=Frank%20Ruhl%20Libre&ext=heatmap)
 
 ---
 
