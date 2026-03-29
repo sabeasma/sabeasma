@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Asma Banu
 
-<img align="right" width="370" height="290" src=https://tenor.com/cWrw4c2Pf1C.gif>
+<img align="right" width="370" height="290" src=https://dribbble.com/shots/2413754-Coding?utm_source=Clipboard_Shot&utm_campaign=waldek&utm_content=Coding&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=waldek&utm_content=Coding&utm_medium=Social_Share>
 
 **Aspiring Software Engineer | B.Tech AIDS Student**  
 🌱 Currently exploring **DSA, AI/ML & Web Development**  
